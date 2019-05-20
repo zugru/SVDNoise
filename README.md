@@ -17,6 +17,6 @@ The *scripts* folder contains scripts for
 
 5.  training a Bayesian Gaussian Mixtrure noise sampler (svdnoise_train_bgm_*.py) and checking the results (svdnoise_bgm_check_*.py)
 
-The *data* folder contains training data and trained estimators. Not included due to github file size limits.
+The *data* folder contains training data and trained estimators. Due to GitHub file size limits, only smaller training data samples are included (i.e., no n1000000 or n20000000 files).
 
-The *pictures* folder contains a variety of diagnostic plots. Not included due to github file size limits.
+The *pictures* folder contains a variety of diagnostic plots. No pictures included.
